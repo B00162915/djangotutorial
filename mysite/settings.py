@@ -25,10 +25,7 @@ SECRET_KEY = 'django-insecure--8&uccxsz80s2i-p5*-v^1+hlqh#v_ei287yes2^awkgo%-7nh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    'https://djangotutorial-git-main-b00162915s-projects.vercel.app/',
-    'https://djangotutorial-xm4z.onrender.com'
-]
+ALLOWED_HOSTS = ['https://djangotutorial-xm4z.onrender.com']
 
 
 # Application definition
